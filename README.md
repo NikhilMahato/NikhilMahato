@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilmahato" alt="nikhilmahato" /></a> </p>
 
-- 🌱 I’m currently learning **AI Agents**
+- 🌱 I’m currently learning **Integrating AI Agents to Performance Test Activities**
 
-- 👯 I’m looking to collaborate on **Performance Bottleneck Analysis**
+- 👯 I’m looking to collaborate on **Performance Testing Activities & Bottleneck Analysis**
 
-- 🤝 I’m looking for help with **Performance Oriented Projects**
+- 🤝 I’m looking for help with **Performance Oriented Projects & Challanges**
 
 - 💬 Ask me about **Performance Testing Concepts, LoadRunner, JMeter, K6**
 
